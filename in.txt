@@ -1,0 +1,27 @@
+type = “book”
+callnumber = “QA76.73.J38S265”
+authors = “Walter Savitch, Kenrich Mock”
+title = “Absolute Java”
+publisher = “Addison-Wesley”
+year = “2009”
+
+type = “journal”
+callnumber = “P98.C6116”
+title = “Computational Linguistics”
+organization = “Association for Computational Linguistics”
+year = “2008”
+
+type = “book”
+callnumber = “598”
+authors = “Walter Savitch”
+title = “java is great”
+publisher = “Random House”
+year = “1886”
+
+type = “book”
+callnumber = “QA76.73.J38S265”
+authors = “Kenrich Mock”
+title = “title title title”
+publisher = “publisher”
+year = “1432”
+
